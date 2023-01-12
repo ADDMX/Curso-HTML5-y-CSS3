@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  padding: 0px;
+  margin: 0px;
+}
+
+main {
+  background-color: beige;
+  padding: 30px;
+  border: 10px solid black;
+}
+
+.container-box {
+  width: 100%;
+  background-color: rgb(173, 173, 173);
+  padding: 30px;
+  border: 10px solid rgb(0, 0, 0);
+  margin: 10px;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ol {
+  margin-left: 40px;
+}

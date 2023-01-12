@@ -1,0 +1,41 @@
+.boton-input {
+  width: 30%;
+  display: block;
+  margin: 0px auto;
+  margin-bottom: 1em;
+  background-color: rgb(126, 126, 126);
+  padding: 20px;
+  border-radius: 50px;
+  border: 0px;
+  color: white;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  cursor: pointer;
+}
+
+.boton-input:hover {
+  background-color: rgb(213, 213, 213);
+  color: black;
+}
+
+.boton-submit {
+  width: 30%;
+  display: block;
+  margin: 0px auto;
+  margin-bottom: 1em;
+  background-color: rgb(141, 0, 0);
+  padding: 20px;
+  border-radius: 50px;
+  border: 0px;
+  color: white;
+  font-size: 15px;
+  text-transform: uppercase;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  cursor: pointer;
+}
+
+.boton-submit:hover {
+  background-color: rgb(201, 79, 79);
+  color: white;
+}

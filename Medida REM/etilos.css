@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+.title {
+  font-size: 1rem;
+}
+
+.title02 {
+  font-size: 1.6rem;
+}
+
+.descripcion {
+  font-size: 3rem;
+}
+
+.lista {
+  font-size: 2em;
+}

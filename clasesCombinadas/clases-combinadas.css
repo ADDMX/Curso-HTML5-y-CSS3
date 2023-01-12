@@ -1,0 +1,51 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.subtitle + p {
+  width: 200px;
+  height: auto;
+  padding: 20px;
+  background: blue;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.title ~ p {
+  width: 200px;
+  height: auto;
+  padding: 20px;
+  background: black;
+  color: white;
+  text-align: center;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
+
+.padre-01 > p {
+  width: 90%;
+  color: white;
+  background-color: gray;
+  padding: 10px;
+  margin-bottom: 10px;
+  border-radius: 50px;
+  text-align: center;
+}
+
+.padre p {
+  width: 200px;
+  height: auto;
+  padding: 20px;
+  background: blanchedalmond;
+  color: blueviolet;
+  text-align: center;
+  border-radius: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+}
