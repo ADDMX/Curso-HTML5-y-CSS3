@@ -49,3 +49,11 @@
   margin-bottom: 10px;
   cursor: pointer;
 }
+
+.container-box > p {
+  width: 200px;
+  height: 200px;
+  background-color: brown;
+  padding: 20px;
+  margin-bottom: 1em;
+}
